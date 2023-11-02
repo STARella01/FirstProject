@@ -1,0 +1,13 @@
+	/* 레이아웃 css 파일 */
+	
+	/*header*/
+	.container{max-width:800px; width:100%; background-color:#fff; border:1px solid blue;}
+	header{border:1px solid red; background-color:green; color:#fff; max-width:800px; width:100%; padding:15px; position:fixed; top:0; left:0;}
+	.header_body{display:flex; justify-content: space-between;}
+	.logo_box{border:1px solid red;}
+	.logo{display:block; box-sizing: border-box;}
+	.search_box{border:1px solid red; }
+	.search_box{border:1px solid red; position:relative;}
+	.search_box input{width:150px; }
+	
+	
