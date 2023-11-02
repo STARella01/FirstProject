@@ -10,6 +10,6 @@ public class IndexController {
 	public ModelAndView index(){
 		ModelAndView mv = new ModelAndView();
 		mv.setViewName("index");
-		return mv;
+		return mv; 
 		}
 }
