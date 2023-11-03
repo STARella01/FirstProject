@@ -1,6 +1,7 @@
-
-<!-- 컨텐츠 -->
-	<div>
+	<!-- Include header.html -->
+    <jsp:include page="include/header.jsp" />
+	<!-- 컨텐츠 -->
+	
 		<h2>컨텐츠 <span>타이틀</span><img alt="" src=""></h2>
 		<ul>
 			<li>
@@ -18,6 +19,6 @@
 				</a>
 			</li>
 		</ul>
-	</div>
-	
-	
+	<!-- Include header.html -->
+    <jsp:include page="include/footer.jsp" />
+	 
