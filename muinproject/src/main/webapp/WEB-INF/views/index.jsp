@@ -15,11 +15,7 @@
 						<dl>
 							<dt>컨텐츠 타이틀</dt>
 							<dd>xxx원</dd>
-<<<<<<< HEAD
-							<dd>다들 되세요? 병지 다음 테스트</dd>
-=======
-							<dd>다들 되세요?</dd>
->>>>>>> branch 'master' of https://github.com/ThezoeunTeam01/FirstProject.git
+							<dd>다들 되세요? 병지 다음 테스트asdfasdfasdf</dd>
 						</dl>
 					</div>
 				</a>
