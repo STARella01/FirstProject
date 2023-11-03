@@ -16,8 +16,8 @@
 		<!-- 폰트어썸 아이콘 -->
 		<script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
 		<!-- CSS -->
-		<link rel="stylesheet" href="../css/reset.css">
-		<link rel="stylesheet" href="../css/layout.css">
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/layout.css">
 		<!-- Script -->
 		<script src="script.js"></script>
 	</head>
