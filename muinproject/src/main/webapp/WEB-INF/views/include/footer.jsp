@@ -11,7 +11,7 @@
 						</li>
 						<li><a href="#">
 									<span><i class="fas fa-user-plus"></i></span>
-									<span>회원가입</span>
+									<span>로그인</span>
 								</a>
 						</li>
 						<li><a href="#">
